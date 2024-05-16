@@ -1,2 +1,2 @@
-# Colmare.exe
-my new skidded gdi malware
+# Colmare
+C++ short skidded GDI trojan by Comium92
